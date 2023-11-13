@@ -5,6 +5,9 @@
 Construiremos uma versão simplificada do painel financeiro que possui:
 
 Uma página inicial pública.
+
 Uma página de login.
+
 Páginas do painel protegidas por autenticação.
+
 A capacidade dos usuários de adicionar, editar e excluir faturas.
