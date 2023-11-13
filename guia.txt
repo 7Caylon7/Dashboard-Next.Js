@@ -1,0 +1,6 @@
+/app: contém todas as rotas, componentes e lógica do seu aplicativo, é aqui que você trabalhará principalmente.
+/app/lib: contém funções usadas em seu aplicativo, como funções utilitárias reutilizáveis ​​e funções de busca de dados.
+/app/ui: contém todos os componentes de UI do seu aplicativo, como cartões, tabelas e formulários. Para economizar tempo, pré-estilizamos esses componentes para você.
+/public: contém todos os ativos estáticos do seu aplicativo, como imagens.
+/script/: contém um script de propagação que você usará para preencher seu banco de dados em um capítulo posterior.
+Arquivos de configuração : você também notará arquivos de configuração, como next.config.jsna raiz do seu aplicativo. A maioria desses arquivos é criada e pré-configurada quando você inicia um novo projeto usando create-next-app. Você não precisará modificá-los neste curso.
